@@ -5,6 +5,9 @@
 - <b>Full-Stack Mobile App (React, TypeScript JavaScript, SQL, )</b>
   - [Crowd-Sourced Travel Planner](https://github.com/villafla/cs461_travel_planner/tree/main) <b><i><a href="https://expo.dev/preview/update?message=Latest%20build&updateRuntimeVersion=1.0.0&createdAt=2025-03-12T00%3A11%3A01.773Z&slug=exp&projectId=9383344d-588c-4cc9-849b-d4b7b5021763&group=65f628e6-a3ee-4265-8e0b-f589fcc9a309">(latest build)</a></i></b>
 
+- <b>Open Source Projects:</b>
+  - [Gender-Mag Recorders Assistant] (https://github.com/GenderMagProject/GenderMagRecordersAssistant/pull/166#issuecomment-2683929874) (JavaScript)
+
 <h2> Education 👩🏻‍🎓:</h2>
 - Bachelor of Science in Computer Science (HCI focus)
 <!--
