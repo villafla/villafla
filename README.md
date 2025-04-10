@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1>Hi, I'm Allyson! <br/><a href="https://github.com/villafla/villafla">Programmer</a>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Full-Stack Mobile App (React, TypeScript JavaScript, SQL, )</b>
+  - [Crowd-Sourced Travel Planner](https://github.com/villafla/cs461_travel_planner/tree/main) <b><i>(Latest Build (https://expo.dev/preview/update?message=Latest%20build&updateRuntimeVersion=1.0.0&createdAt=2025-03-12T00%3A11%3A01.773Z&slug=exp&projectId=9383344d-588c-4cc9-849b-d4b7b5021763&group=65f628e6-a3ee-4265-8e0b-f589fcc9a309))</b></i>
 
 <!--
 **villafla/villafla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
