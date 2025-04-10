@@ -8,7 +8,7 @@
 - <b>Open Source Projects:</b>
   - [Gender-Mag Recorders Assistant](https://github.com/GenderMagProject/GenderMagRecordersAssistant/pull/166#issuecomment-2683929874) (JavaScript)
 
-<h2> Education 👩🏻‍🎓:</h2>
+<h2>👩🏻‍🎓 Education:</h2>
 - Bachelor of Science in Computer Science (HCI focus)
 <!--
 **villafla/villafla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
